@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: montserrat;
-    background: linear-gradient(120deg, #2980b9, #8e44ad);
+    background: #36393f;
     height: 100vh;
     overflow: 
     ;
@@ -14,7 +14,7 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     width: 400px;
-    background: white;
+    background: #2f3136;
     border-radius: 10px;
 }
 
@@ -22,6 +22,8 @@ body{
     text-align: center;
     padding: 0 0 20px 0;
     border-bottom: 1px solid silver;
+    color: white;
+    
 }
 
 .center form{
@@ -95,7 +97,7 @@ input[type="submit"]{
     background: #2691d9;
     border-radius: 25px;
     font-size: 18px;
-    color: #e9f4fb;
+    color: #36393f;
     font-weight: 700;
     cursor: pointer;
     outline: none;
