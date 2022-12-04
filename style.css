@@ -5,7 +5,12 @@ body{
 
 a{
     text-decoration: none;
-    color: white;
+    color: #2691d9;
+    font-size: large;
+}
+
+a:hover{
+    text-decoration: underline;
 }
 
 .center{
@@ -16,4 +21,10 @@ a{
     background: #2f3136;
     width: 400px;
     text-align: center;
+    border-radius: 10px;
+}
+
+.center h1{
+    color: white;
+    border-bottom: 1px solid silver;
 }
