@@ -42,6 +42,7 @@ form .input_field{
     border: none;
     background: none;
     outline: none;
+    color: white;
 }
 
 .input_field label{
