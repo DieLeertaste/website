@@ -33,6 +33,7 @@ body{
 .link_element a{
     text-decoration: none;
     font-size: large;
+    color: white;
 }
 
 .link_element a:hover{
